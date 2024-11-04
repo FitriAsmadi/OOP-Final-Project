@@ -20,7 +20,10 @@
     "@electron-forge/plugin-auto-unpack-natives": "^7.5.0",
     "@electron-forge/plugin-fuses": "^7.5.0",
     "@electron/fuses": "^1.8.0",
-    "electron": "33.0.2"
+    "electron": "33.0.2",
+    "electron-forge": "^5.2.4",
+    "import": "^0.0.6",
+    "npx": "^10.2.2"
   },
   "keywords": [],
   "author": "M S I",
